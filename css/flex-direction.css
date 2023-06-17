@@ -1,3 +1,5 @@
+/* Code for flex-direction:row*/
 .parent {
   display: flex;
+  flex-direction: row;
 }
