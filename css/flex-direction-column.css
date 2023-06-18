@@ -1,0 +1,5 @@
+/* Code for flex-direction:column*/
+.parent {
+  display: flex;
+  flex-direction: column;
+}
